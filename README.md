@@ -12,9 +12,11 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - CSS3
 
 ## Project Structure
+```
 Customisable-Image-Gallery-JavaScript/
 ├─ README.md
 ├─ sample images for testing.txt
 ├─ index.html
 ├─ script.js
 └─ style.css
+```
