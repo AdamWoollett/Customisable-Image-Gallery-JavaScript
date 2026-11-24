@@ -15,8 +15,8 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 ```
 Customisable-Image-Gallery-JavaScript/
 ├─ README.md
-├─ sample images for testing.txt
-├─ index.html
-├─ script.js
-└─ style.css
+├─ sample images for testing.txt        # Contains sample URLs that a user can use to test the page with. Not necessary for page function.
+├─ index.html                           # Landing page.
+├─ script.js                            # JavaScript file for the page's function.
+└─ style.css                            # Page styling.
 ```
